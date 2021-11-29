@@ -1,0 +1,29 @@
+.glow {
+  text-decoration: none;
+  display: inline-block;
+  padding: 10px 140px;
+  /* margin: 10px 20px; */
+  border-radius: 10px;
+  box-shadow: 0 0 40px 40px #427276 inset, 0 0 0 0 #427276;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  letter-spacing: 2px;
+  color: #e7f2f3;
+  transition: .15s ease-in-out;
+  background-color:#427276 ;
+}
+.glow:hover {
+  box-shadow: 0 0 10px 0 #59959B , 0 0 10px 4px #59959B;
+}
+.glow:hover {
+  background-color: #B1CFD2;
+  border-color: #427276;
+  color: #427276;
+  
+
+}
+.glow:focus{
+  background-color: #427276;
+  color: #e7f2f3;
+
+}

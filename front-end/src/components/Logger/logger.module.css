@@ -1,0 +1,17 @@
+.container{
+  display: flex;
+  justify-content: space-around;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-size: 15px;
+  min-height: calc(100vh - 210.5px);
+}
+/* .graphics {
+  height: 850px;
+  width: 550px;
+  /* background: black; */
+/* } */ */
+/* @media (min-width: 768px) and (max-width: 1400px) {
+  .graphics {
+    height: {350};
+  }
+} */
