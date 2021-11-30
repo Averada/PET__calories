@@ -12,3 +12,5 @@
 1. cd client/
 2. npm i или yarn
 3. npm start или yarn start
+
+![Logout](https://github.com/Averada/calories/blob/main/Log.png)
