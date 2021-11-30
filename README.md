@@ -14,3 +14,5 @@
 3. npm start или yarn start
 
 ![Logout](https://github.com/Averada/calories/blob/main/Log.png)
+![Main](https://github.com/Averada/calories/blob/main/Main.png)
+![ProfileLow](https://github.com/Averada/calories/blob/main/Profile-low.png)
